@@ -10,6 +10,7 @@ The purpose of this project is to share information that individuals seeking inf
 | --- | --- | --- |
 | Medical | Special Operations Forces (SOF) Medical Handbook | [pdf](sof_medical_handbook.pdf) |
 | SERE | SERE Handbook | [pdf](afh10-644.pdf) |
+| General Preparedness | LDS Preparedness Manual | [pdf](LDSPrep-V8.pdf) |
 
 ## Contributing
 
